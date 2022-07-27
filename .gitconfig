@@ -1,0 +1,2 @@
+[credential "https://course-gitlab.tuni.fi"]
+	provider = generic
